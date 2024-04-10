@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "pandanetwork.aternos.me",
+    "port": 18087,
     "version": "1.19.3"
   },
 
